@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
 
-#EXTINF:-1 tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png", 03/11/2024 21:22:50
+#EXTINF:-1 tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png", 03/11/2024 21:27:16
 acestream://
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw", DAZN F1 4K
 acestream://c021e3af42b9cd3743817a2c6258e0986666dd73
@@ -152,37 +152,37 @@ acestream://5bd78125bd1e98c3f49e98910ed15e39d0b9f631
 acestream://b7e43c2c3887864193578eb57079955c50070f69
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 8" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png", LaLiga Hypermotion 8
 acestream://11c89343be863cf2a69b3973747c629d9e79d7b8
-#EXTINF:-1 group-title="British" tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.ibb.co/8r7M1Fy/mainevent.png", Sky Sports Main Event UK
+#EXTINF:-1 group-title="British" tvg-id="SkySportsMainEvent.uk" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blta95035dd51049d82/65bbb5730b2014cb5b412a00/SkySports_1x1.png", Sky Sports Main Event UK
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="British" tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.ibb.co/w4sF0dt/premier.png", Sky Sports Premier League UK
+#EXTINF:-1 group-title="British" tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blta95035dd51049d82/65bbb5730b2014cb5b412a00/SkySports_1x1.png", Sky Sports Premier League UK
 acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 group-title="British" tvg-id="SkySportsFootball.uk" tvg-logo="https://i.ibb.co/whnhzMk/skyfootball.png", Sky Sports Football UK
+#EXTINF:-1 group-title="British" tvg-id="SkySportsFootball.uk" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blta95035dd51049d82/65bbb5730b2014cb5b412a00/SkySports_1x1.png", Sky Sports Football UK
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 group-title="British" tvg-id="SkySportsArena.uk" tvg-logo="https://i.ibb.co/fx1tbCQ/Skyarena.png", Sky Sports Arena UK
+#EXTINF:-1 group-title="British" tvg-id="SkySportsArena.uk" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blta95035dd51049d82/65bbb5730b2014cb5b412a00/SkySports_1x1.png", Sky Sports Arena UK
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 group-title="British" tvg-id="SkySportF1Germany.de" tvg-logo="https://i.ibb.co/KrxsSFT/f1.png", Sky Sports F1 DE
+#EXTINF:-1 group-title="British" tvg-id="SkySportF1Germany.de" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blta95035dd51049d82/65bbb5730b2014cb5b412a00/SkySports_1x1.png", Sky Sports F1 DE
 acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
-#EXTINF:-1 group-title="British" tvg-id="TNTSports1.uk" tvg-logo="https://i.ibb.co/ZN1bxkV/TNT1.png", TNT Sports 1 UK
+#EXTINF:-1 group-title="British" tvg-id="TNTSports1.uk" tvg-logo="https://play-lh.googleusercontent.com/L5QdK6pZeHse9Lz9uG5p7hJ1BMdE_uqIMM7WSxBKVRBi83dTHvUNOYPJ4FIg36ZSypI", TNT Sports 1 UK
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 group-title="British" tvg-id="TNTSports2.uk" tvg-logo="https://i.ibb.co/wQ5ChWr/TNT2.png", TNT Sports 2 UK
+#EXTINF:-1 group-title="British" tvg-id="TNTSports2.uk" tvg-logo="https://play-lh.googleusercontent.com/L5QdK6pZeHse9Lz9uG5p7hJ1BMdE_uqIMM7WSxBKVRBi83dTHvUNOYPJ4FIg36ZSypI", TNT Sports 2 UK
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 group-title="British" tvg-id="TNTSports3.uk" tvg-logo="https://i.ibb.co/M9VGB7X/TNT3.png", TNT Sports 3 UK
+#EXTINF:-1 group-title="British" tvg-id="TNTSports3.uk" tvg-logo="https://play-lh.googleusercontent.com/L5QdK6pZeHse9Lz9uG5p7hJ1BMdE_uqIMM7WSxBKVRBi83dTHvUNOYPJ4FIg36ZSypI", TNT Sports 3 UK
 acestream://5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 group-title="British" tvg-id="TNTSports4.uk" tvg-logo="https://i.ibb.co/xjXMsJw/TNT4.png", TNT Sports 4 UK
+#EXTINF:-1 group-title="British" tvg-id="TNTSports4.uk" tvg-logo="https://play-lh.googleusercontent.com/L5QdK6pZeHse9Lz9uG5p7hJ1BMdE_uqIMM7WSxBKVRBi83dTHvUNOYPJ4FIg36ZSypI", TNT Sports 4 UK
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 group-title="Otros deportes" tvg-id="NBATV.us" tvg-logo="https://i.imgur.com/4QrPlos.png", NBA TV
 acestream://e72d03fb9694164317260f684470be9ab781ed95
-#EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN.us" tvg-logo="https://i.ibb.co/ssj7ZBV/espn.png", ESPN US
+#EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN.us" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-espn-1-461787.png", ESPN US
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN2.us" tvg-logo="https://i.ibb.co/pdpg7bR/espn2.png", ESPN 2 US
+#EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN2.us" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-espn-1-461787.png", ESPN 2 US
 acestream://664eb5fe460b96941aed633959a845b185cd8394
 #EXTINF:-1 group-title="Otros deportes" tvg-id="FoxSports1.us" tvg-logo="https://i.ibb.co/fvG2stM/foxsports.png", FOX Sports 1 US
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 group-title="Otros deportes" tvg-id="FoxSports2.us" tvg-logo="https://i.ibb.co/0cnVCwv/foxsports2.png", FOX Sports 2 US
 acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:-1 group-title="Otros deportes" tvg-id="ZiggoSportVoetbal.nl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2EoR81fJFuLzF0QGi1WAw9t8otRPfwyHdV9UBKcLrQltS7eUUh3yKrZ2U_ICEmjo4PIA&usqp=CAU", Ziggo Sport Voetbal NL
+#EXTINF:-1 group-title="Otros deportes" tvg-id="ZiggoSportVoetbal.nl" tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/49a26fb10000640005041fa3/0x0.png", Ziggo Sport Voetbal NL
 acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
-#EXTINF:-1 group-title="Otros deportes" tvg-id="ZiggoSportRacing.nl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2EoR81fJFuLzF0QGi1WAw9t8otRPfwyHdV9UBKcLrQltS7eUUh3yKrZ2U_ICEmjo4PIA&usqp=CAU", Ziggo Sport Racing NL
+#EXTINF:-1 group-title="Otros deportes" tvg-id="ZiggoSportRacing.nl" tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/49a26fb10000640005041fa3/0x0.png", Ziggo Sport Racing NL
 acestream://77800bb07c1d69135024ee2379c97472eb12dd45
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0", EuroSport 1 FHD
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
