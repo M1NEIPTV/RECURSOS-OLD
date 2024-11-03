@@ -66,6 +66,8 @@ def get_channel_list(channel_dict):
         if identif == 'http':
             identif = ''
 
+        channel_name = channel_name.replace("UHD ep", "4K").replace("UHD", "4K").replace("1080P", "FHD").replace("1080", "FHD").replace("720", "HD")
+        
         channel_info = {"group_title": group_title,
                         "tvg_id": tvg_id,
                         "logo": logo,
