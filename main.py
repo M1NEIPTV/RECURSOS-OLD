@@ -185,20 +185,22 @@ def export_channels(channel_dict):
     channel_pattern = '#EXTINF:-1 group-title="GROUPTITLE" tvg-id="TVGID" tvg-logo="LOGO", CHANNELTITLE\nacestream://CHANNELID\n'
     channel_pattern_http = '#EXTINF:-1 group-title="GROUPTITLE" tvg-id="TVGID" tvg-logo="LOGO", CHANNELTITLE\nCHANNELID\n'
 
-
+    excluded_channels = ["La1", "La2", "CUATRO", "BeMad", "Telecinco", "Copa", "Barça", "TV3", "TDP", "tdp", "GOL TV", "Euro"]
+        
     for group_title in u.group_title_order:
         for channel_info in channel_list:
             if channel_info["group_title"] == group_title:
-                if "http" in channel_info["channel_id"]:
-                    ch_pattern = channel_pattern_http
-                else:
-                    ch_pattern = channel_pattern
-                channel = ch_pattern.replace("GROUPTITLE", channel_info["group_title"]) \
-                                               .replace("TVGID", channel_info["tvg_id"]) \
-                                               .replace("LOGO", channel_info["logo"]) \
-                                               .replace("CHANNELID", channel_info["channel_id"]) \
-                                               .replace("CHANNELTITLE", channel_info["channel_name"])
-                channels += channel
+                if not any(channel in channel_info["channel_name"] for channel in excluded_channels if channel != "Euro" or "EuroSport" not in channel_info["channel_name"]):
+                    if "http" in channel_info["channel_id"]:
+                        ch_pattern = channel_pattern_http
+                    else:
+                        ch_pattern = channel_pattern
+                    channel = ch_pattern.replace("GROUPTITLE", channel_info["group_title"]) \
+                                                   .replace("TVGID", channel_info["tvg_id"]) \
+                                                   .replace("LOGO", channel_info["logo"]) \
+                                                   .replace("CHANNELID", channel_info["channel_id"]) \
+                                                   .replace("CHANNELTITLE", channel_info["channel_name"])
+                    channels += channel
 
     return channels
 
