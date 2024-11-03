@@ -722,10 +722,10 @@ canales:
 
     
   canal71:
-    channel_name: GOL TV 1080
-    group_title: Otros deportes
-    logo: https://i.ibb.co/5hYsXDR/Gol.jpg
-    tvg_id: GOL PLAY
+    channel_name: DAZN PPV 1
+    group_title: DAZN
+    logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
+    tvg_id: PPV
   canal72:
     channel_name: tdp 1080
     group_title: Otros deportes
