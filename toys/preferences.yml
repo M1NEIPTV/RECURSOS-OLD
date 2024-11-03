@@ -77,7 +77,9 @@ nombres:
   key17:
     name: "M."
     replace: "M+"
-  
+  key18:
+    name: "PPVP"
+    replace: "DAZN PPV"
 
 
 
@@ -875,10 +877,26 @@ canales:
     group_title: Otros deportes
     logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6gKALgnJ-yAuP-WEwXAioFZ98lGiaiOvaAh4JN4q8umxsMxiylU-meSp8jCuVfpcevcU&usqp=CAU
     tvg_id: SETANTA
-
-
-
-
+canal1000:
+    channel_name: DAZN PPV 1
+    group_title: DAZN
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD
+    tvg_id: PPV
+canal1001:
+    channel_name: DAZN PPV 2
+    group_title: DAZN
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD
+    tvg_id: PPV
+canal1001:
+    channel_name: DAZN PPV 3
+    group_title: DAZN
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD
+    tvg_id: PPV
+canal1001:
+    channel_name: DAZN PPV 4
+    group_title: DAZN
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD
+    tvg_id: PPV
 
 
 telepages:
