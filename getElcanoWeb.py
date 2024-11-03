@@ -2,7 +2,7 @@ import re
 from playwright.async_api import async_playwright
 import asyncio
 
-url = 'https://proxy.zeronet.dev/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/'
+url = 'https://proxy.zeronet.dev/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwFZ/'
 
 
 async def extract_links_from_iframe(url):
