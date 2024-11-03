@@ -60,8 +60,8 @@ nombres:
     name: "Eurosport"
     replace: "EuroSport"
   key11:
-    name: "M.L."
-    replace: "ML"
+    name: "M.L. Campeones"
+    replace: "M+ Liga de Campeones"
   key12:
     name: "BT Sport"
     replace: "TNT Sports"
@@ -80,7 +80,9 @@ nombres:
   key18:
     name: "PPVP"
     replace: "DAZN PPV"
-
+  key19:
+    name: "La Liga BAR"
+    replace: "LaLiga TV BAR"
 
 
 
@@ -114,7 +116,7 @@ canales:
     tvg_id: DAZN F1 HD
 
   canal3a:
-    channel_name: La Liga BAR 1080
+    channel_name: LaLiga TV BAR 1080
     group_title: LaLiga
     logo: https://i.ibb.co/pLPmnGg/liga-TVbar.png
     #logo: https://telegra.ph/file/1151a8da2345d862a41ed.jpg
@@ -218,27 +220,27 @@ canales:
     tvg_id: DAZN LaLiga 5 HD
 
   canal43:
-    channel_name: ML Campeones 1080 MultiAudio
+    channel_name: M+ Liga de Campeones 1080 MultiAudio
     group_title: M+ Champions
     logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAPIO
     tvg_id: M+ Liga de Campeones HD
   canal43b:
-    channel_name: ML Campeones 1080P
+    channel_name: M+ Liga de Campeones 1080P
     group_title: M+ Champions
     logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAPIO
     tvg_id: M+ Liga de Campeones HD
   canal44:
-    channel_name: ML Campeones 720
+    channel_name: M+ Liga de Campeones 720
     group_title: M+ Champions
     logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAPIO
     tvg_id: M+ Liga de Campeones HD
   canal44a:
-    channel_name: ML Campeones 2 1080
+    channel_name: M+ Liga de Campeones 2 1080
     group_title: M+ Champions
     logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP1
     tvg_id: M+ Liga de Campeones 2 HD
   canal44b:
-    channel_name: ML Campeones 2 720
+    channel_name: M+ Liga de Campeones 2 720
     group_title: M+ Champions
     logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP1
     tvg_id: M+ Liga de Campeones 2 HD
@@ -253,67 +255,67 @@ canales:
     logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Champions%20Tour%20HD.png
     tvg_id: M+ Champions Tour HD
   canal47:
-    channel_name: ML Campeones 3 1080
+    channel_name: M+ Liga de Campeones 3 1080
     group_title: M+ Champions
     logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP2
     tvg_id: M+ Liga de Campeones 3 HD
   canal48:
-    channel_name: ML Campeones 3 720
+    channel_name: M+ Liga de Campeones 3 720
     group_title: M+ Champions
     logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP2
     tvg_id: M+ Liga de Campeones 3 HD
   canal49:
-    channel_name: ML Campeones 4 1080
+    channel_name: M+ Liga de Campeones 4 1080
     group_title: M+ Champions
     logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP3
     tvg_id: M+ Liga de Campeones 4
   canal50:
-    channel_name: ML Campeones 5 1080
+    channel_name: M+ Liga de Campeones 5 1080
     group_title: M+ Champions
     logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP4
     tvg_id: M+ Liga de Campeones 5
   canal51:
-    channel_name: ML Campeones 6 1080
+    channel_name: M+ Liga de Campeones 6 1080
     group_title: M+ Champions
     logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP5
     tvg_id: M+ Liga de Campeones 6
   canal52:
-    channel_name: ML Campeones 7 1080
+    channel_name: M+ Liga de Campeones 7 1080
     group_title: M+ Champions
     logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP6
     tvg_id: M+ Liga de Campeones 7
   canal53:
-    channel_name: ML Campeones 8 1080
+    channel_name: M+ Liga de Campeones 8 1080
     group_title: M+ Champions
     logo: https://telegra.ph/file/f2331933708bc91db95f2.png
     tvg_id: M+ Liga de Campeones 8
   canal54:
-    channel_name: ML Campeones 9 SD
+    channel_name: M+ Liga de Campeones 9 SD
     group_title: M+ Champions
     logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP8
     tvg_id: M+ Liga de Campeones 9
   canal55:
-    channel_name: ML Campeones 10 SD
+    channel_name: M+ Liga de Campeones 10 SD
     group_title: M+ Champions
     logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP9
     tvg_id: M+ Liga de Campeones 10
   canal56:
-    channel_name: ML Campeones 11 SD
+    channel_name: M+ Liga de Campeones 11 SD
     group_title: M+ Champions
     logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP10
     tvg_id: M+ Liga de Campeones 11
   canal57:
-    channel_name: ML Campeones 12 SD
+    channel_name: M+ Liga de Campeones 12 SD
     group_title: M+ Champions
     logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP11
     tvg_id: M+ Liga de Campeones 12
   canal57c:
-    channel_name: ML Campeones 13 SD
+    channel_name: M+ Liga de Campeones 13 SD
     group_title: M+ Champions
     logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP11
     tvg_id: M+ Liga de Campeones 13
   canal57b:
-    channel_name: ML Campeones 17 SD
+    channel_name: M+ Liga de Campeones 17 SD
     group_title: M+ Champions
     logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAPIO
     tvg_id: M+ Liga de Campeones 17
