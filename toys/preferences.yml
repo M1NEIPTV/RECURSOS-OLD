@@ -661,17 +661,17 @@ canales:
     tvg_id: ZiggoSportVoetbal.nl
       
   canal69:
-    channel_name: Eurosport 1 1080
+    channel_name: EuroSport 1 1080
     group_title: Otros deportes
     logo: https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg
     tvg_id: Eurosport 1 HD
   canal70:
-    channel_name: Eurosport 2 1080
+    channel_name: EuroSport 2 1080
     group_title: Otros deportes
     logo: https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg
     tvg_id: Eurosport 2
   canal691:
-    channel_name: Eurosport 4K
+    channel_name: EuroSport 4K
     group_title: Otros deportes
     logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMgdqJODqwW6zAFu6rkzH-mNfUvkcdX52R2g&s
     tvg_id: Eurosport 1 HD
