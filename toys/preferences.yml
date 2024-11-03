@@ -28,7 +28,7 @@ nombres:
     replace: "DAZN Liga F"
   key18:
     name: "DAZN F1 Multicamara (Fórmula 1)"
-    replace: "DAZN F1 Multicámara"
+    replace: "DAZN F1 Multicamara"
   key1:
     name: " (Fórmula 1)"
     replace: ""
@@ -108,7 +108,7 @@ canales:
     logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1
     tvg_id: DAZN F1 HD
   canal68a:
-    channel_name: DAZN F1 Multicámara
+    channel_name: DAZN F1 Multicamara
     group_title: DAZN F1
     logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1
     tvg_id: DAZN F1 HD
