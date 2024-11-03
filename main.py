@@ -186,11 +186,12 @@ def export_channels(channel_dict):
     channel_pattern_http = '#EXTINF:-1 group-title="GROUPTITLE" tvg-id="TVGID" tvg-logo="LOGO", CHANNELTITLE\nCHANNELID\n'
 
     excluded_channels = ["La1", "La2", "CUATRO", "BeMad", "Telecinco", "Copa", "Barça", "TV3", "TDP", "tdp", "GOL TV", "Euro"]
+    exception_channels = ["EuroSport", "Eurosport"]
         
     for group_title in u.group_title_order:
         for channel_info in channel_list:
             if channel_info["group_title"] == group_title:
-                if not any(channel in channel_info["channel_name"] for channel in excluded_channels if channel != "Euro" or "EuroSport" not in channel_info["channel_name"] or "Eurosport" not in channel_info["channel_name"]):
+                if not any(channel in channel_name for channel in excluded_channels) or any(exception in channel_name for exception in exception_channels):
                     if "http" in channel_info["channel_id"]:
                         ch_pattern = channel_pattern_http
                     else:
