@@ -72,7 +72,7 @@ def get_channel_list(channel_dict):
                         "tvg_id": tvg_id,
                         "logo": logo,
                         "channel_id": channel_id,
-                        "channel_name": channel_name + "  " + identif}
+                        "channel_name": channel_name}
 
         channel_list.append(channel_info)
 
