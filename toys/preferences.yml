@@ -545,12 +545,12 @@ canales:
   canal110:
     channel_name: ESPN US
     group_title: Otros deportes
-    logo: https://i.ibb.co/ssj7ZBV/espn.png
+    logo: https://cdn.iconscout.com/icon/free/png-256/free-espn-1-461787.png
     tvg_id: ESPN.us
   canal111:
     channel_name: ESPN 2 US
     group_title: Otros deportes
-    logo: https://i.ibb.co/pdpg7bR/espn2.png
+    logo: https://cdn.iconscout.com/icon/free/png-256/free-espn-1-461787.png
     tvg_id: ESPN2.us
   canal112:
     channel_name: FOX Sports 1 US
@@ -566,64 +566,64 @@ canales:
   canal93:
     channel_name: TNT Sports 1 UK
     group_title: British
-    logo: https://i.ibb.co/ZN1bxkV/TNT1.png
+    logo: https://play-lh.googleusercontent.com/L5QdK6pZeHse9Lz9uG5p7hJ1BMdE_uqIMM7WSxBKVRBi83dTHvUNOYPJ4FIg36ZSypI
     tvg_id: TNTSports1.uk
     #tvg_id: I1207.82450.schedulesdirect.org
     #tvg_id: TNT Sports 1 HD
   canal94:
     channel_name: TNT Sports 2 UK
     group_title: British
-    logo: https://i.ibb.co/wQ5ChWr/TNT2.png
+    logo: https://play-lh.googleusercontent.com/L5QdK6pZeHse9Lz9uG5p7hJ1BMdE_uqIMM7WSxBKVRBi83dTHvUNOYPJ4FIg36ZSypI
     tvg_id: TNTSports2.uk
     #tvg_id: I1213.82451.schedulesdirect.org
     #tvg_id: TNT Sports 2 HD
   canal95:
     channel_name: TNT Sports 3 UK
     group_title: British
-    logo: https://i.ibb.co/M9VGB7X/TNT3.png
+    logo: https://play-lh.googleusercontent.com/L5QdK6pZeHse9Lz9uG5p7hJ1BMdE_uqIMM7WSxBKVRBi83dTHvUNOYPJ4FIg36ZSypI
     tvg_id: TNTSports3.uk
     #tvg_id: TNT Sports 3 HD
   canal96:
     channel_name: TNT Sports 4 UK
     group_title: British
-    logo: https://i.ibb.co/xjXMsJw/TNT4.png
+    logo: https://play-lh.googleusercontent.com/L5QdK6pZeHse9Lz9uG5p7hJ1BMdE_uqIMM7WSxBKVRBi83dTHvUNOYPJ4FIg36ZSypI
     tvg_id: TNTSports4.uk
     #tvg_id: TNT Sports 4 HD
   canal91:
     channel_name: Sky Sports Main Event UK
     group_title: British
-    logo: https://i.ibb.co/8r7M1Fy/mainevent.png
+    logo: https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blta95035dd51049d82/65bbb5730b2014cb5b412a00/SkySports_1x1.png
     #tvg_id: I401.1229.tvguide.co.uk
     tvg_id: SkySportsMainEvent.uk
     #tvg_id: Sky Sports Main Event
   canal104:
     channel_name: Sky Sports Premier League UK
     group_title: British
-    logo: https://i.ibb.co/w4sF0dt/premier.png
+    logo: https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blta95035dd51049d82/65bbb5730b2014cb5b412a00/SkySports_1x1.png
     tvg_id: SkySportsPremierLeague.uk
     #tvg_id: Sky Sports Premier League
   canal97:
     channel_name: Sky Sports Arena UK
     group_title: British
-    logo: https://i.ibb.co/fx1tbCQ/Skyarena.png
+    logo: https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blta95035dd51049d82/65bbb5730b2014cb5b412a00/SkySports_1x1.png
     tvg_id: SkySportsArena.uk
     #tvg_id: Sky Sports Arena
   canal98:
     channel_name: Sky Sports Football UK
     group_title: British
-    logo: https://i.ibb.co/whnhzMk/skyfootball.png
+    logo: https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blta95035dd51049d82/65bbb5730b2014cb5b412a00/SkySports_1x1.png
     #tvg_id: I403.2087.tvguide.co.uk
     tvg_id: SkySportsFootball.uk
     #tvg_id: Sky Sports Football
   canal99:
     channel_name: Sky Sports Plus UK
     group_title: British
-    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
+    logo: https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blta95035dd51049d82/65bbb5730b2014cb5b412a00/SkySports_1x1.png
     tvg_id: SkySpPL.uk
   canal99b:
     channel_name: Sky Sports F1 DE
     group_title: British
-    logo: https://i.ibb.co/KrxsSFT/f1.png
+    logo: https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blta95035dd51049d82/65bbb5730b2014cb5b412a00/SkySports_1x1.png
     tvg_id: SkySportF1Germany.de
   canal100:
     channel_name: Premier Sports 1 UK
@@ -650,12 +650,12 @@ canales:
   canal103:
     channel_name: Ziggo Sport Racing NL
     group_title: Otros deportes
-    logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2EoR81fJFuLzF0QGi1WAw9t8otRPfwyHdV9UBKcLrQltS7eUUh3yKrZ2U_ICEmjo4PIA&usqp=CAU
+    logo: https://s3-eu-west-1.amazonaws.com/tpd/logos/49a26fb10000640005041fa3/0x0.png
     tvg_id: ZiggoSportRacing.nl
   canal109:
     channel_name: Ziggo Sport Voetbal NL
     group_title: Otros deportes
-    logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2EoR81fJFuLzF0QGi1WAw9t8otRPfwyHdV9UBKcLrQltS7eUUh3yKrZ2U_ICEmjo4PIA&usqp=CAU
+    logo: https://s3-eu-west-1.amazonaws.com/tpd/logos/49a26fb10000640005041fa3/0x0.png
     tvg_id: ZiggoSportVoetbal.nl
       
   canal69:
