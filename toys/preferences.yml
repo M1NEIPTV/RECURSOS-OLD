@@ -57,6 +57,9 @@ nombres:
     name: "EuroSport"
     replace: "EuroSport"
   key11:
+    name: "Eurosport"
+    replace: "EuroSport"
+  key11:
     name: "M.L."
     replace: "ML"
   key12:
