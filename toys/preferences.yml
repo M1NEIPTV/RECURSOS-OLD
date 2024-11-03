@@ -726,6 +726,21 @@ canales:
     group_title: DAZN
     logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
     tvg_id: PPV
+  canal71a:
+    channel_name: DAZN PPV 2
+    group_title: DAZN
+    logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
+    tvg_id: PPV
+  canal71b:
+    channel_name: DAZN PPV 3
+    group_title: DAZN
+    logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
+    tvg_id: PPV
+  canal71c:
+    channel_name: DAZN PPV 4
+    group_title: DAZN
+    logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
+    tvg_id: PPV
   canal72:
     channel_name: tdp 1080
     group_title: Otros deportes
