@@ -92,157 +92,156 @@ canales:
   canal66b:
     channel_name: DAZN F1 UHD
     group_title: DAZN F1
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MF1UHD
+    logo: https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw
     tvg_id: DAZN F1 HD
   canal66c:
     channel_name: DAZN F1 UHD ep
     group_title: DAZN F1
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MF1UHD
+    logo: https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw
     tvg_id: DAZN F1 HD
   canal66:
     channel_name: DAZN F1 1080
     group_title: DAZN F1
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1
+    logo: https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw
     tvg_id: DAZN F1 HD
   canal68:
     channel_name: DAZN F1 720
     group_title: DAZN F1
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1
+    logo: https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw
     tvg_id: DAZN F1 HD
   canal68a:
     channel_name: DAZN F1 Multicamara
     group_title: DAZN F1
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1
+    logo: https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw
     tvg_id: DAZN F1 HD
 
   canal3a:
     channel_name: LaLiga TV BAR 1080
     group_title: LaLiga
-    logo: https://i.ibb.co/pLPmnGg/liga-TVbar.png
-    #logo: https://telegra.ph/file/1151a8da2345d862a41ed.jpg
+    logo: https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png
     tvg_id: LaLiga TV BAR
 
   canal3b:
     channel_name: M+ LaLiga 1440P
     group_title: LaLiga
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA
+    logo: https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png
     tvg_id: M+ LaLiga TV HD
   canal3c:
     channel_name: M+ LaLiga UHD
     group_title: LaLiga
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGUH
+    logo: https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png
     tvg_id: M+ LaLiga TV HD
   canal3d:
     channel_name: M+ LaLiga UHD ep
     group_title: LaLiga
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGUH
+    logo: https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png
     tvg_id: M+ LaLiga TV HD
   canal3:
     channel_name: M+ LaLiga 1080P
     group_title: LaLiga
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA
+    logo: https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png
     tvg_id: M+ LaLiga TV HD
   canal4:
     channel_name: M+ LaLiga 1080 MultiAudio
     group_title: LaLiga
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA
+    logo: https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png
     tvg_id: M+ LaLiga TV HD
   canal6:
     channel_name: M+ LaLiga 720
     group_title: LaLiga
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA
+    logo: https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png
     tvg_id: M+ LaLiga TV HD
   canal7:
     channel_name: M+ LaLiga 2 1080
     group_title: LaLiga
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1
+    logo: https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png
     tvg_id: M+ LaLiga TV 2 HD
   canal8:
     channel_name: M+ LaLiga 2 720
     group_title: LaLiga
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1
+    logo: https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png
     tvg_id: M+ LaLiga TV 2 HD
   canal9:
     channel_name: M+ LaLiga 3 1080
     group_title: LaLiga
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG2
+    logo: https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png
     tvg_id: M+ LaLiga TV 3 HD
   canal10:
     channel_name: M+ LaLiga 4 1080
     group_title: LaLiga
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG3
+    logo: https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png
     tvg_id: M+ LaLiga TV 4
   canal11:
     channel_name: M+ LaLiga 5 1080
     group_title: LaLiga
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG4
+    logo: https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png
     tvg_id: M+ LaLiga TV 5
   canal12:
     channel_name: M+ LaLiga 6 1080
     group_title: LaLiga
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG5
+    logo: https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png
     tvg_id: M+ LaLiga TV 6
     
   canal13:
     channel_name: DAZN LaLiga 1080 MultiAudio
     group_title: LaLiga
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI
+    logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
     tvg_id: DAZN LaLiga HD
   canal15:
     channel_name: DAZN LaLiga 720
     group_title: LaLiga
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI
+    logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
     tvg_id: DAZN LaLiga HD
   canal16:
     channel_name: DAZN LaLiga 2 1080 MultiAudio
     group_title: LaLiga
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL2
+    logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
     tvg_id: DAZN LaLiga 2 HD
   canal17:
     channel_name: DAZN LaLiga 2 720 MultiAudio
     group_title: LaLiga
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL2
+    logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
     tvg_id: DAZN LaLiga 2 HD
   canal18:
     channel_name: DAZN LaLiga 3 1080 MultiAudio
     group_title: LaLiga
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL3
+    logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
     tvg_id: DAZN LaLiga 3 HD
   canal19:
     channel_name: DAZN LaLiga 4 1080 MultiAudio
     group_title: LaLiga
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL4
+    logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
     tvg_id: DAZN LaLiga 4 HD
   canal20:
     channel_name: DAZN LaLiga 5 1080 MultiAudio
     group_title: LaLiga
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL5
+    logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
     tvg_id: DAZN LaLiga 5 HD
 
   canal43:
     channel_name: M+ Liga de Campeones 1080 MultiAudio
     group_title: M+ Champions
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAPIO
+    logo: https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg
     tvg_id: M+ Liga de Campeones HD
   canal43b:
     channel_name: M+ Liga de Campeones 1080P
     group_title: M+ Champions
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAPIO
+    logo: https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg
     tvg_id: M+ Liga de Campeones HD
   canal44:
     channel_name: M+ Liga de Campeones 720
     group_title: M+ Champions
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAPIO
+    logo: https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg
     tvg_id: M+ Liga de Campeones HD
   canal44a:
     channel_name: M+ Liga de Campeones 2 1080
     group_title: M+ Champions
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP1
+    logo: https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg
     tvg_id: M+ Liga de Campeones 2 HD
   canal44b:
     channel_name: M+ Liga de Campeones 2 720
     group_title: M+ Champions
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP1
+    logo: https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg
     tvg_id: M+ Liga de Campeones 2 HD
   canal45:
     channel_name: M+ Champions Tour 1080
@@ -257,98 +256,98 @@ canales:
   canal47:
     channel_name: M+ Liga de Campeones 3 1080
     group_title: M+ Champions
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP2
+    logo: https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg
     tvg_id: M+ Liga de Campeones 3 HD
   canal48:
     channel_name: M+ Liga de Campeones 3 720
     group_title: M+ Champions
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP2
+    logo: https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg
     tvg_id: M+ Liga de Campeones 3 HD
   canal49:
     channel_name: M+ Liga de Campeones 4 1080
     group_title: M+ Champions
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP3
+    logo: https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg
     tvg_id: M+ Liga de Campeones 4
   canal50:
     channel_name: M+ Liga de Campeones 5 1080
     group_title: M+ Champions
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP4
+    logo: https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg
     tvg_id: M+ Liga de Campeones 5
   canal51:
     channel_name: M+ Liga de Campeones 6 1080
     group_title: M+ Champions
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP5
+    logo: https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg
     tvg_id: M+ Liga de Campeones 6
   canal52:
     channel_name: M+ Liga de Campeones 7 1080
     group_title: M+ Champions
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP6
+    logo: https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg
     tvg_id: M+ Liga de Campeones 7
   canal53:
     channel_name: M+ Liga de Campeones 8 1080
     group_title: M+ Champions
-    logo: https://telegra.ph/file/f2331933708bc91db95f2.png
+    logo: https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg
     tvg_id: M+ Liga de Campeones 8
   canal54:
     channel_name: M+ Liga de Campeones 9 SD
     group_title: M+ Champions
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP8
+    logo: https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg
     tvg_id: M+ Liga de Campeones 9
   canal55:
     channel_name: M+ Liga de Campeones 10 SD
     group_title: M+ Champions
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP9
+    logo: https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg
     tvg_id: M+ Liga de Campeones 10
   canal56:
     channel_name: M+ Liga de Campeones 11 SD
     group_title: M+ Champions
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP10
+    logo: https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg
     tvg_id: M+ Liga de Campeones 11
   canal57:
     channel_name: M+ Liga de Campeones 12 SD
     group_title: M+ Champions
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP11
+    logo: https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg
     tvg_id: M+ Liga de Campeones 12
   canal57c:
     channel_name: M+ Liga de Campeones 13 SD
     group_title: M+ Champions
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP11
+    logo: https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg
     tvg_id: M+ Liga de Campeones 13
   canal57b:
     channel_name: M+ Liga de Campeones 17 SD
     group_title: M+ Champions
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAPIO
+    logo: https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg
     tvg_id: M+ Liga de Campeones 17
 
   canal60:
     channel_name: DAZN 1 1080
     group_title: DAZN
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD
+    logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
     tvg_id: DAZN 1 HD
   canal61:
     channel_name: DAZN 1 720
     group_title: DAZN
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD
+    logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
     tvg_id: DAZN 1 HD
   canal62:
     channel_name: DAZN 2 1080
     group_title: DAZN
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M2SD
+    logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
     tvg_id: DAZN 2 HD
   canal63:
     channel_name: DAZN 2 720
     group_title: DAZN
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M2SD
+    logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
     tvg_id: DAZN 2 HD
   canal64:
     channel_name: DAZN 3 1080
     group_title: DAZN
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN3
+    logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
     tvg_id: DAZN 3 HD
   canal65:
     channel_name: DAZN 4 1080
     group_title: DAZN
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN4
+    logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
     tvg_id: DAZN 4 HD
   canal65a:
     channel_name: DAZN Liga F 1
@@ -374,7 +373,7 @@ canales:
   canal105:
     channel_name: M Plus+ 1080
     group_title: M+ Deportes
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%20HD.png
+    logo: https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg
     tvg_id: Movistar Plus+ HD
 
 
@@ -403,146 +402,138 @@ canales:
   canal31:
     channel_name: '#Vamos 1080'
     group_title: M+ Deportes
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png
+    logo: https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg
     tvg_id: 'M+ Vamos HD'
   canal32:
     channel_name: '#Vamos 720'
     group_title: M+ Deportes
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png
+    logo: https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg
     tvg_id: 'M+ Vamos HD'
   canal33:
     channel_name: '#Ellas 1080'
     group_title: M+ Deportes
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos%20HD.png
+    logo: https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png
     tvg_id: 'M+ Ellas Vamos HD'
   canal34:
     channel_name: M+ Deportes 1080
     group_title: M+ Deportes
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%20HD.png
+    logo: https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg
     tvg_id: M+ Deportes HD
   canal35:
     channel_name: M+ Deportes 720
     group_title: M+ Deportes
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%20HD.png
+    logo: https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg
     tvg_id: M+ Deportes HD
   canal36:
     channel_name: M+ Deportes 2 1080
     group_title: M+ Deportes
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202%20HD.png
+    logo: https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg
     tvg_id: M+ Deportes 2 HD
   canal37:
     channel_name: M+ Deportes 3 1080
     group_title: M+ Deportes
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png
+    logo: https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg
     tvg_id: M+ Deportes 3
   canal38:
     channel_name: M+ Deportes 4 1080
     group_title: M+ Deportes
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png
+    logo: https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg
     tvg_id: M+ Deportes 4
   canal39:
     channel_name: M+ Deportes 5 1080
     group_title: M+ Deportes
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png
+    logo: https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg
     tvg_id: M+ Deportes 5
   canal40:
     channel_name: M+ Deportes 6 1080
     group_title: M+ Deportes
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png
+    logo: https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg
     tvg_id: M+ Deportes 6
   canal41:
     channel_name: M+ Deportes 7 1080
     group_title: M+ Deportes
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%207.png
+    logo: https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg
     tvg_id: M+ Deportes 7
     
   canal58:
     channel_name: M+ Golf 1080
     group_title: M+ Deportes
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%20HD.png
-    #logo: https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png
+    logo: https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg
     tvg_id: M+ Golf HD
   canal59:
     channel_name: M+ Golf 2 1080
     group_title: M+ Deportes
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202%20HD.png
+    logo: https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg
     tvg_id: M+ Golf 2 HD
-    
-  #canal59b:
-    #channel_name: Golf Channel 720
-    #group_title: Otros deportes
-    #logo: https://telegra.ph/file/13e3b23de6970d4d85bc5.png
-    #tvg_id: i640.101736.schedulesdirect.org
-  
   canal21:
     channel_name: LaLiga Hypermotion 1080
     group_title: M+ LaLiga Hypermotion
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png
+    logo: https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png
     tvg_id: LaLiga TV Hypermotion HD
   canal22:
     channel_name: LaLiga Hypermotion 720
     group_title: M+ LaLiga Hypermotion
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png
+    logo: https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png
     tvg_id: LaLiga TV Hypermotion HD
   canal23:
     channel_name: LaLiga Hypermotion 2 1080
     group_title: M+ LaLiga Hypermotion
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png
+    logo: https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png
     tvg_id: LaLiga TV Hypermotion 2
   canal24:
     channel_name: LaLiga Hypermotion 2 720
     group_title: M+ LaLiga Hypermotion
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png
+    logo: https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png
     tvg_id: LaLiga TV Hypermotion 2
   canal25:
     channel_name: LaLiga Hypermotion 3
     group_title: M+ LaLiga Hypermotion
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png
+    logo: https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png
     tvg_id: LaLiga TV Hypermotion 3
   canal26:
     channel_name: LaLiga Hypermotion 4
     group_title: M+ LaLiga Hypermotion
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%204.png
+    logo: https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png
     tvg_id: LaLiga TV Hypermotion 4
   canal27:
     channel_name: LaLiga Hypermotion 5
     group_title: M+ LaLiga Hypermotion
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png
+    logo: https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png
     tvg_id: LaLiga TV Hypermotion 5
   canal28:
     channel_name: LaLiga Hypermotion 6
     group_title: M+ LaLiga Hypermotion
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png
+    logo: https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png
     tvg_id: LaLiga TV Hypermotion 6
   canal29:
     channel_name: LaLiga Hypermotion 7
     group_title: M+ LaLiga Hypermotion
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png
+    logo: https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png
     tvg_id: LaLiga TV Hypermotion 7
   canal30:
     channel_name: LaLiga Hypermotion 8
     group_title: M+ LaLiga Hypermotion
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png
+    logo: https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png
     tvg_id: LaLiga TV Hypermotion 8
   canal301:
     channel_name: LaLiga Hypermotion 9
     group_title: M+ LaLiga Hypermotion
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png
+    logo: https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png
     tvg_id: LaLiga TV Hypermotion 9
   canal302:
     channel_name: LaLiga Hypermotion 10
     group_title: M+ LaLiga Hypermotion
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png
+    logo: https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png
     tvg_id: LaLiga TV Hypermotion 10
   canal303:
     channel_name: LaLiga Hypermotion 11
     group_title: M+ LaLiga Hypermotion
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png
+    logo: https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png
     tvg_id: LaLiga TV Hypermotion 11
   canal304:
     channel_name: LaLiga Hypermotion 12
     group_title: M+ LaLiga Hypermotion
-    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png
+    logo: https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png
     tvg_id: LaLiga TV Hypermotion 12
     
 
@@ -670,22 +661,22 @@ canales:
   canal69:
     channel_name: EuroSport 1 1080
     group_title: Otros deportes
-    logo: https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg
+    logo: https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0
     tvg_id: Eurosport 1 HD
   canal70:
     channel_name: EuroSport 2 1080
     group_title: Otros deportes
-    logo: https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg
+    logo: https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0
     tvg_id: Eurosport 2
   canal691:
     channel_name: EuroSport 4K
     group_title: Otros deportes
-    logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMgdqJODqwW6zAFu6rkzH-mNfUvkcdX52R2g&s
+    logo: https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0
     tvg_id: Eurosport 1 HD
   canal69h:
     channel_name: Eurosport 1 1080P
     group_title: Otros deportes
-    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
+    logo: https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0
     tvg_id: Eurosport 4K
 
 
@@ -695,37 +686,37 @@ canales:
   canal69a:
     channel_name: Eurosport 3 1080
     group_title: Otros deportes
-    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
+    logo: https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0
     tvg_id: Eurosport 3
   canal69b:
     channel_name: Eurosport 4 1080
     group_title: Otros deportes
-    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
+    logo: https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0
     tvg_id: Eurosport 4
   canal69c:
     channel_name: Eurosport 5 1080
     group_title: Otros deportes
-    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
+    logo: https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0
     tvg_id: Eurosport 5
   canal69d:
     channel_name: Eurosport 6 1080
     group_title: Otros deportes
-    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
+    logo: https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0
     tvg_id: Eurosport 6
   canal69e:
     channel_name: Eurosport 7 1080
     group_title: Otros deportes
-    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
+    logo: https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0
     tvg_id: Eurosport 7
   canal69f:
     channel_name: Eurosport 8 1080
     group_title: Otros deportes
-    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
+    logo: https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0
     tvg_id: Eurosport 8
   canal69g:
     channel_name: Eurosport 9 1080
     group_title: Otros deportes
-    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
+    logo: https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0
     tvg_id: Eurosport 9
 
 
@@ -748,17 +739,17 @@ canales:
   canal77:
     channel_name: Sport TV 1 1080
     group_title: Otros deportes
-    logo: https://img2.sport-tv-guide.live/images/stations/a450.png
+    logo: https://play-lh.googleusercontent.com/Vo2LlTNSgBAOrvHBIZwVsR8J-a8J1h7tyGBOjHrxnKPEt3NnphxCpAZUspDAqqPNScs
     tvg_id: Sport TV1 POR HD
   canal78:
     channel_name: Sport TV 2 1080
     group_title: Otros deportes
-    logo: https://img2.sport-tv-guide.live/images/stations/a451.png
+    logo: https://play-lh.googleusercontent.com/Vo2LlTNSgBAOrvHBIZwVsR8J-a8J1h7tyGBOjHrxnKPEt3NnphxCpAZUspDAqqPNScs
     tvg_id: Sport TV2 POR HD
   canal79:
     channel_name: Sport TV 3 1080
     group_title: Otros deportes
-    logo: https://img2.sport-tv-guide.live/images/stations/a452.png
+    logo: https://play-lh.googleusercontent.com/Vo2LlTNSgBAOrvHBIZwVsR8J-a8J1h7tyGBOjHrxnKPEt3NnphxCpAZUspDAqqPNScs
     tvg_id: Sport TV3 POR HD
   canal80:
     channel_name: beIN SPORTS ñ
@@ -877,27 +868,27 @@ canales:
   canal87:
     channel_name: SETANTA SPORTS 1080
     group_title: Otros deportes
-    logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6gKALgnJ-yAuP-WEwXAioFZ98lGiaiOvaAh4JN4q8umxsMxiylU-meSp8jCuVfpcevcU&usqp=CAU
+    logo: https://play-lh.googleusercontent.com/mGMq60f8H_PKAGAy5AkYne4UJf9ATuac-zmJL6_jrUsIR7HnvTcHGCD0zb-g3lNuWGQ
     tvg_id: SETANTA
 canal1000:
     channel_name: DAZN PPV 1
     group_title: DAZN
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD
+    logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
     tvg_id: PPV
 canal1001:
     channel_name: DAZN PPV 2
     group_title: DAZN
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD
+    logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
     tvg_id: PPV
 canal1001:
     channel_name: DAZN PPV 3
     group_title: DAZN
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD
+    logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
     tvg_id: PPV
 canal1001:
     channel_name: DAZN PPV 4
     group_title: DAZN
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD
+    logo: https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png
     tvg_id: PPV
 
 
