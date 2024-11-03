@@ -23,7 +23,7 @@ def export_messages():
         #channel_dict = dict()  # {channel_id: channel_name}
         cleansed_content = ""
         #all_channels = '#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, http://epgspot.com/rytec_epg/rytecUK_SportMovies.xz"\n'
-        all_channels = u.dict_epgs + '\n\n' + '#EXTINF:-1 tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png", ' + dt_string + '' + '\n' + '' + '\n'
+        all_channels = u.dict_epgs + '\n\n' + '#EXTINF:-1 tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png", ' + dt_string + '' + '\n' + 'acestream://' + '\n'
         #all_channels = u.dict_epgs + '\n\n' + '#EXTINF:-1 tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", powered by Lucas' + '\n' + 'https://pastebin.com/raw/FF8iSrLQ' + '\n'
 
         
