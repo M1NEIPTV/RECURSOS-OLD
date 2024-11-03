@@ -190,7 +190,7 @@ def export_channels(channel_dict):
     for group_title in u.group_title_order:
         for channel_info in channel_list:
             if channel_info["group_title"] == group_title:
-                if not any(channel in channel_info["channel_name"] for channel in excluded_channels if channel != "Euro" or "EuroSport" not in channel_info["channel_name"]):
+                if not any(channel in channel_info["channel_name"] for channel in excluded_channels if channel != "Euro" or ("EuroSport" not in channel_info["channel_name"] or "Eurosport" not in channel_info["channel_name"])):
                     if "http" in channel_info["channel_id"]:
                         ch_pattern = channel_pattern_http
                     else:
