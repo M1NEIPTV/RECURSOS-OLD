@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
 
-#EXTINF:-1 tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png", 24/11/2024 23:16:34
+#EXTINF:-1 tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png", 24/11/2024 23:34:17
 http://127.0.0.1:6878/ace/getstream?id=
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw", DAZN F1 FHD
 http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9
@@ -24,6 +24,8 @@ http://127.0.0.1:6878/ace/getstream?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
 http://127.0.0.1:6878/ace/getstream?id=f31a586422c9244196c810c84b6c85da350318a5
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png", M+ LaLiga 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png", M+ LaLiga 3 HD
+http://127.0.0.1:6878/ace/getstream?id=835639b89db00cc0d94660da3c10b6e38bfbcdc1
 #EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV BAR" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png", LaLiga TV BAR FHD
 http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV BAR" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png", LaLiga TV BAR FHD
@@ -168,8 +170,6 @@ http://127.0.0.1:6878/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2" tvg-logo="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0", EuroSport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", M+ LaLiga 3 HD
-http://127.0.0.1:6878/ace/getstream?id=835639b89db00cc0d94660da3c10b6e38bfbcdc1
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0", EuroSport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2" tvg-logo="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0", EuroSport 2 FHD
