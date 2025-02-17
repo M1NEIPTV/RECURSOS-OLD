@@ -3,8 +3,8 @@ import requests
 import os
 
 # Define the URL and output file path
-#url = "https://proxy.zeronet.dev/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/links.json"
-url = "https://proxy.zeronet.dev/1JKe3VPvFe35bm1aiHdD4p1xcGCkZKhH3Q"
+url = "https://proxy.zeronet.dev/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/links.json"
+#url = "https://proxy.zeronet.dev/1JKe3VPvFe35bm1aiHdD4p1xcGCkZKhH3Q"
 output_file = "toys/cachedList.txt"
 
 
