@@ -1,7 +1,15 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
 
-#EXTINF:-1 tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png", 18/02/2025 18:16:24
+#EXTINF:-1 tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png", 18/02/2025 19:26:00
 acestream://
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw", DAZN F1 FHD
+acestream://d6281d4e6310269b416180442a470d23a4a99dc9
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw", DAZN F1 FHD
+acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw", DAZN F1 FHD
+acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw", DAZN F1 HD
+acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png", M+ LaLiga FHD
 acestream://94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png", M+ LaLiga FHD MultiAudio
