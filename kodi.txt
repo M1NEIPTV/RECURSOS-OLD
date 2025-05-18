@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
 
-#EXTINF:-1 tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png", 18/05/2025 20:26:06
+#EXTINF:-1 tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png", 18/05/2025 21:15:06
 plugin://script.module.horus?action=play&id=
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw", DAZN F1 FHD
 plugin://script.module.horus?action=play&id=d6281d4e6310269b416180442a470d23a4a99dc9
@@ -30,6 +30,8 @@ plugin://script.module.horus?action=play&id=835639b89db00cc0d94660da3c10b6e38bfb
 plugin://script.module.horus?action=play&id=68697ea4f261289d97bbc3418ad3cbc4180aa32f
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 5" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png", M+ LaLiga 5 FHD
 plugin://script.module.horus?action=play&id=c4bb3a84628b4e00fcca7f71279d05e1ce34b59b
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 6" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png", M+ LaLiga 6 FHD
+plugin://script.module.horus?action=play&id=a0c7f911f35d72c1abc86c89604e1d4171bf664f
 #EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV BAR" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png", LaLiga TV BAR FHD
 plugin://script.module.horus?action=play&id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV BAR" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png", LaLiga TV BAR FHD
