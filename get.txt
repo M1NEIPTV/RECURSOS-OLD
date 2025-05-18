@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
 
-#EXTINF:-1 tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png", 18/05/2025 15:25:56
+#EXTINF:-1 tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png", 18/05/2025 16:17:15
 http://127.0.0.1:6878/ace/getstream?id=
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw", DAZN F1 FHD
 http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9
@@ -28,6 +28,8 @@ http://127.0.0.1:6878/ace/getstream?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
 http://127.0.0.1:6878/ace/getstream?id=835639b89db00cc0d94660da3c10b6e38bfbcdc1
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 4" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png", M+ LaLiga 4 FHD
 http://127.0.0.1:6878/ace/getstream?id=68697ea4f261289d97bbc3418ad3cbc4180aa32f
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 5" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png", M+ LaLiga 5 FHD
+http://127.0.0.1:6878/ace/getstream?id=c4bb3a84628b4e00fcca7f71279d05e1ce34b59b
 #EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV BAR" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png", LaLiga TV BAR FHD
 http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV BAR" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png", LaLiga TV BAR FHD
@@ -44,6 +46,12 @@ http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png", DAZN LaLiga 2 HD MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png", DAZN LaLiga 3 FHD MultiAudio
+http://127.0.0.1:6878/ace/getstream?id=3c72639799f5471b213a073f4c1c6bf28bd08035
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png", DAZN LaLiga 4 FHD MultiAudio
+http://127.0.0.1:6878/ace/getstream?id=3fc9d954b818522ff07dfe70051b6ea7a5ebbc61
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 5 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png", DAZN LaLiga 5 FHD MultiAudio
+http://127.0.0.1:6878/ace/getstream?id=922edf7e1c015026082b7f8061cf8159cb4afafd
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png", LaLiga Hypermotion FHD
 http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png", LaLiga Hypermotion HD
